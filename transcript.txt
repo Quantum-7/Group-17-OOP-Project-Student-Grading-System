@@ -1,0 +1,14 @@
+Student Result Recording System
+Name: John Adams 
+Student ID: 10633333
+Digital Signals Processing
+Attendance:			8.5
+Written Quiz:			9.0
+Practical Quiz:			16.8
+Project:			22.5
+Sem Exams:			24.3
+========================
+Final Score:			81.1
+Grade:			A
+
+

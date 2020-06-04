@@ -1,0 +1,8 @@
+Group 17 Project
+
+ID for lecturer: 10681842
+
+Password for Lecturer: leslie
+
+
+Start running from login.java
